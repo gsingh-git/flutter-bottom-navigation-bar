@@ -3,8 +3,8 @@
 Flutter project for bottom navigation bar 
 
 ## Screenshot
-![Preview](screenshot/cart.png)
-![Preview](screenshot/feed.png)
-![Preview](screenshot/home.png)
-![Preview](screenshot/search.png)
-![Preview](screenshot/user.png)
+![](screenshot/cart.png)
+![](screenshot/feed.png)
+![](screenshot/home.png)
+![](screenshot/search.png)
+![](screenshot/user.png)
