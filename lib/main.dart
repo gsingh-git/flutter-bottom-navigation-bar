@@ -1,3 +1,4 @@
+import 'package:bottom_navigation/screens/animatedbottombar.dart';
 import 'package:bottom_navigation/screens/bottombar.dart';
 import 'package:flutter/material.dart';
 
@@ -15,6 +16,6 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
-        home: BottomBarScreen());
+        home: BottomAnimatedBar());
   }
 }
